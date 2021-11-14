@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e317fb56-148b-4549-97ea-fb2111530b8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T4_Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/T4_Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4_Arrays/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +33,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Array_15">
+    <configuration name="Array_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_15" />
+      <module name="T4_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="T4_Arrays" />
@@ -42,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_15" />
         <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>

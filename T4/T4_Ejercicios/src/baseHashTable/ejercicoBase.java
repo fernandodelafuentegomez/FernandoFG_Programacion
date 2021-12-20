@@ -1,4 +1,4 @@
-package baseHashTable;
+/*package baseHashTable;
 
 import java.util.Hashtable;
 import java.util.Scanner;
@@ -24,7 +24,7 @@ public class ejercicoBase {
 
         boolean encontrado = false;
 
-        for (Object[] item: listaCoches.get(matricula)) {
+        for (Object[] item : listaCoches.get(matricula)) {
 
             if (item.equals(matricula)) {
                 encontrado = true;
@@ -33,6 +33,7 @@ public class ejercicoBase {
             }
 
         }
+
 
 
 
@@ -45,5 +46,5 @@ public class ejercicoBase {
 
             }
         }*/
-    }
-}
+   // }
+//}

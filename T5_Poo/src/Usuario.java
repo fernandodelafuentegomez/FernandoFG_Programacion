@@ -33,6 +33,14 @@ public class Usuario {
 
     //metodos
 
+    public void mostrarDatos(){
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Contraseña: " + password);
+        System.out.println("Correo Electronico: " + correoElectronico);
+        System.out.println("Fecha: " + fecha);
+        System.out.println("Edad: " + edad);
+    }
+
 
     //metodos getters y setters
 

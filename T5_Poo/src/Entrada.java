@@ -3,6 +3,7 @@ public class Entrada {
     //ambito de clase
     //String nombre = "Borja";
 
+
     public static void main(String[] args) {
 
         //ambito de metodo - local
@@ -22,14 +23,17 @@ public class Entrada {
 
         //editar un valor ya dado
         System.out.println(usuario1.password);
-        usuario1.password = "contraseña";
-        System.out.println(usuario1.password);
+
+        usuario1.correoElectronico = "Fernando.delafuente@gmail.com";
+        System.out.println(usuario1.correoElectronico);
 
         usuario1.setPassword("contraseña");
         System.out.println(usuario1.getPassword());
 
         usuario1.setNombre("Fernando");
         System.out.println(usuario1.getNombre());
+
+        usuario1.mostrarDatos();
 
 
 

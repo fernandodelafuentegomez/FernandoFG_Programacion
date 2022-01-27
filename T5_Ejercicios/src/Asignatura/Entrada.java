@@ -12,11 +12,11 @@ public class Entrada {
 
         Alumno alumno = new Alumno(asignatura1, asignatura2, asignatura3);
 
-        Profesor profesor = new Profesor();
+        //Profesor profesor = new Profesor();
 
-        profesor.ponerNotas(alumno);
+       // profesor.ponerNotas(alumno);
 
-        System.out.println("Media: " + profesor.calcularMedia(alumno));
+        //System.out.println("Media: " + profesor.calcularMedia(alumno));
 
     }
 

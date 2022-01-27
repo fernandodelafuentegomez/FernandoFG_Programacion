@@ -12,7 +12,7 @@ public class Cuadrado {
         this.altura = altura;
     }
 
-    public calcularAreaCu(int base, int altura){
+    public void calcularAreaCu(int base, int altura){
 
         this.base = base;
     }

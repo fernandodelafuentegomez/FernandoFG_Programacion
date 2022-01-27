@@ -18,10 +18,4 @@ public class Entrada {
         persona4.mostrarDatos();
 
     }
-
-
-
-
-
-
 }
